@@ -1,0 +1,3 @@
+yang berbeda dengan dengan sebelumnya adalah 
+1. saat transaksi sebelumnya data apa saja bisa masuk asalkan sesuai tipenya, yang baru saat transaksi diperiksa dulu datanya sudah cocok atau belum jika cocok bisa di inputkan.
+2. sebelumnya saat transaksi di model pemesanan tiket insert transaksi lalu di pemesanan kursi update transaksi, yang baru data keduanya di langsung di insert transaksi 
