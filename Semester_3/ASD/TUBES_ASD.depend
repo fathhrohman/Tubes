@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1480258400 source:d:\sekolah\semester 3\struktur data\tubes asd 2016\tubes asd\main.cpp
+	<iostream>
+	"multilist.h"
+
+1480368864 source:d:\sekolah\semester 3\struktur data\tubes asd 2016\tubes asd\multilist.cpp
+	"multilist.h"
+
+1480332495 d:\sekolah\semester 3\struktur data\tubes asd 2016\tubes asd\multilist.h
+	<iostream>
+	<stdlib.h>
+
+1480225005 source:e:\document\kuliah\semester 3\struktur data\asd\tubes\tubes asd-20161125t133611z\tubes asd\multilist.cpp
+	"multilist.h"
+
+1480311862 e:\document\kuliah\semester 3\struktur data\asd\tubes\tubes asd-20161125t133611z\tubes asd\multilist.h
+	<iostream>
+	<stdlib.h>
+
+1480224771 source:e:\document\kuliah\semester 3\struktur data\asd\tubes\tubes asd-20161125t133611z\tubes asd\multilist_anak.cpp
+	"multilist.h"
+
+1480311783 source:e:\document\kuliah\semester 3\struktur data\asd\tubes\tubes asd-20161125t133611z\tubes asd\main.cpp
+	<iostream>
+	"multilist.h"
+
+1480312009 source:e:\document\kuliah\semester 3\struktur data\asd\tubes\tubes asd-20161125t133611z\tubes asd\main_konfig.cpp
+	"multilist.h"
+
+1480368233 source:d:\sekolah\semester 3\struktur data\tubes asd 2016\tubes asd\main_konfig.cpp
+	"multilist.h"
+
+1480258402 source:d:\sekolah\semester 3\struktur data\tubes asd 2016\tubes asd\multilist_anak.cpp
+	"multilist.h"
+
